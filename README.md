@@ -1,5 +1,5 @@
 # JUtilsXtra
-Additional Utility functions for Java that are missing from the java.util and Apache commons
+Additional Utility functions for Java that are missing from the java.util and Apache commons.
 This project contains many functions that I have needed for all sorts of things when programming. 
 They mostly contain operations on Arrays, such as comparing arrays, finding highest values,unions, distinct, average value etc. 
 There are also some hash functions and methods for converting between primitives or int and long arrays to ByteArrays and back.
